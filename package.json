@@ -1,11 +1,8 @@
 {
-  "name": "exporter-dev",
+  "name": "@ronething/exporter-dev",
   "version": "1.0.0",
   "description": "notion exporter dev",
-  "main": "stealth.min.js",
-  "directories": {
-    "doc": "docs"
-  },
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
