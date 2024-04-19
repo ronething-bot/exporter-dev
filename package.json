@@ -1,0 +1,30 @@
+{
+  "name": "exporter-dev",
+  "version": "1.0.0",
+  "description": "notion exporter dev",
+  "main": "stealth.min.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronething-bot/exporter-dev.git"
+  },
+  "keywords": [
+    "notion",
+    "exporter",
+    "database"
+  ],
+  "author": "ashing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ronething-bot/exporter-dev/issues"
+  },
+  "homepage": "https://github.com/ronething-bot/exporter-dev#readme",
+  "dependencies": {
+    "@ronething/exporter": "^1.0.0"
+  }
+}
